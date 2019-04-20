@@ -1,3 +1,10 @@
 #kill{
-color: #5A5959
+  color: #5A5959;
+}
+
+#body{
+  tab-size: 4;
+  font-family: Helvetica;
+  font-size: 1em;
+  color: #000000;
 }
