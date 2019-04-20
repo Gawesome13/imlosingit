@@ -8,3 +8,8 @@
   font-size: 1em;
   color: #000000;
 }
+
+tab {
+    display: inline-block; 
+    margin-left: 40px; 
+}
